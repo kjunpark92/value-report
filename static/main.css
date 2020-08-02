@@ -1,0 +1,13 @@
+:root {
+    --lighter-blue:#E6F5FF ;
+    --light-blue: #72BAFC;
+    --dark-blue: #252B48;
+    --teal: #80DBBF;
+    --green: #80D98A;
+    --dark-green: rgb(34, 87, 39);
+    --very-dark-blue: #242a46;
+}
+
+a.nuxt-link-active{
+    color: #80D98A
+}
