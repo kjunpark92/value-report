@@ -20,7 +20,7 @@
     "js-cookie": "^2.2.1",
     "lodash": "^4.17.15",
     "mapbox-gl": "^1.9.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-mapbox": "^0.4.1",
     "vue-toast-notification": "^0.2.0"
   },
